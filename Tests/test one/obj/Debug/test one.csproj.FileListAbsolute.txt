@@ -1,0 +1,7 @@
+D:\Учёба 2 курс 1 сем\Tests\test one\bin\Debug\test one.exe.config
+D:\Учёба 2 курс 1 сем\Tests\test one\bin\Debug\test one.exe
+D:\Учёба 2 курс 1 сем\Tests\test one\bin\Debug\test one.pdb
+D:\Учёба 2 курс 1 сем\Tests\test one\obj\Debug\test one.csprojAssemblyReference.cache
+D:\Учёба 2 курс 1 сем\Tests\test one\obj\Debug\test one.csproj.CoreCompileInputs.cache
+D:\Учёба 2 курс 1 сем\Tests\test one\obj\Debug\test one.exe
+D:\Учёба 2 курс 1 сем\Tests\test one\obj\Debug\test one.pdb

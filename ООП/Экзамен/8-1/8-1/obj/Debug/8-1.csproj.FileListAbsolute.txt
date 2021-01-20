@@ -1,0 +1,7 @@
+D:\Учёба 2 курс 1 сем\ООП\Экзамен\8-1\8-1\bin\Debug\8-1.exe.config
+D:\Учёба 2 курс 1 сем\ООП\Экзамен\8-1\8-1\bin\Debug\8-1.exe
+D:\Учёба 2 курс 1 сем\ООП\Экзамен\8-1\8-1\bin\Debug\8-1.pdb
+D:\Учёба 2 курс 1 сем\ООП\Экзамен\8-1\8-1\obj\Debug\8-1.csprojAssemblyReference.cache
+D:\Учёба 2 курс 1 сем\ООП\Экзамен\8-1\8-1\obj\Debug\8-1.csproj.CoreCompileInputs.cache
+D:\Учёба 2 курс 1 сем\ООП\Экзамен\8-1\8-1\obj\Debug\8-1.exe
+D:\Учёба 2 курс 1 сем\ООП\Экзамен\8-1\8-1\obj\Debug\8-1.pdb
